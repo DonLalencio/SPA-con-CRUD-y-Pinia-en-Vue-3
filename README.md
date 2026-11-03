@@ -64,6 +64,7 @@ src/
 
 ## 📄 Evidencias
 
-El documento PDF con las capturas de interfaz, capturas de código y explicaciones se encuentra en:
+Los documentos con las capturas de interfaz, capturas de código y explicaciones se entregan junto con el proyecto y se conservan localmente; por su tamaño no se versionan en el repositorio:
 
-`evidencias/Evidencias-SPA-Vue-Pinia.pdf`
+- `evidencias/Evidencias-SPA-Vue-Pinia.pdf`
+- `evidencias/Evidencias-SPA-Vue-Pinia.docx`

@@ -7,5 +7,4 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 *.log
-evidencias/capturas
-evidencias/codigo
+evidencias/
